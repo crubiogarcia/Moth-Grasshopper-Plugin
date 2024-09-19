@@ -1,6 +1,6 @@
 # **Moth - Grasshopper Plugin**
 
-Moth is a çplugin for the Grasshopper environment with a variety of useful components.
+Moth is a plugin for the Grasshopper environment with a variety of useful components.
 
 ## **Functionalities**
 
