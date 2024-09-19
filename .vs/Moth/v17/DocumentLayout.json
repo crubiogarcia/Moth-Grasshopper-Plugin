@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carme\\Desktop\\GH PlugIn\\Moth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65122D4D-F0CA-47EF-AE4A-B359BD929A61}|Moth.csproj|c:\\users\\carme\\desktop\\gh plugin\\moth\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65122D4D-F0CA-47EF-AE4A-B359BD929A61}|Moth.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65122D4D-F0CA-47EF-AE4A-B359BD929A61}|Moth.csproj|c:\\users\\carme\\desktop\\gh plugin\\moth\\mesh\\meshfaceclusteringcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65122D4D-F0CA-47EF-AE4A-B359BD929A61}|Moth.csproj|solutionrelative:mesh\\meshfaceclusteringcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65122D4D-F0CA-47EF-AE4A-B359BD929A61}|Moth.csproj|c:\\users\\carme\\desktop\\gh plugin\\moth\\mothinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65122D4D-F0CA-47EF-AE4A-B359BD929A61}|Moth.csproj|solutionrelative:mothinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65122D4D-F0CA-47EF-AE4A-B359BD929A61}|Moth.csproj|c:\\users\\carme\\desktop\\gh plugin\\moth\\moth.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{65122D4D-F0CA-47EF-AE4A-B359BD929A61}|Moth.csproj|solutionrelative:moth.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65122D4D-F0CA-47EF-AE4A-B359BD929A61}|Moth.csproj|c:\\users\\carme\\desktop\\gh plugin\\moth\\curve\\roadslinecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65122D4D-F0CA-47EF-AE4A-B359BD929A61}|Moth.csproj|solutionrelative:curve\\roadslinecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\carme\\Desktop\\GH PlugIn\\Moth\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\carme\\Desktop\\GH PlugIn\\Moth\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:39:38.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MothInfo.cs",
+              "DocumentMoniker": "C:\\Users\\carme\\Desktop\\GH PlugIn\\Moth\\MothInfo.cs",
+              "RelativeDocumentMoniker": "MothInfo.cs",
+              "ToolTip": "C:\\Users\\carme\\Desktop\\GH PlugIn\\Moth\\MothInfo.cs",
+              "RelativeToolTip": "MothInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:39:23.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoadsLineComponent.cs",
+              "DocumentMoniker": "C:\\Users\\carme\\Desktop\\GH PlugIn\\Moth\\Curve\\RoadsLineComponent.cs",
+              "RelativeDocumentMoniker": "Curve\\RoadsLineComponent.cs",
+              "ToolTip": "C:\\Users\\carme\\Desktop\\GH PlugIn\\Moth\\Curve\\RoadsLineComponent.cs",
+              "RelativeToolTip": "Curve\\RoadsLineComponent.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADgv0QAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:32:17.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeshFaceClusteringComponent.cs",
+              "DocumentMoniker": "C:\\Users\\carme\\Desktop\\GH PlugIn\\Moth\\Mesh\\MeshFaceClusteringComponent.cs",
+              "RelativeDocumentMoniker": "Mesh\\MeshFaceClusteringComponent.cs",
+              "ToolTip": "C:\\Users\\carme\\Desktop\\GH PlugIn\\Moth\\Mesh\\MeshFaceClusteringComponent.cs",
+              "RelativeToolTip": "Mesh\\MeshFaceClusteringComponent.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwB4AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T20:32:15.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Moth",
+              "DocumentMoniker": "C:\\Users\\carme\\Desktop\\GH PlugIn\\Moth\\Moth.csproj",
+              "RelativeDocumentMoniker": "Moth.csproj",
+              "ToolTip": "C:\\Users\\carme\\Desktop\\GH PlugIn\\Moth\\Moth.csproj",
+              "RelativeToolTip": "Moth.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T20:31:36.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
