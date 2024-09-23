@@ -17,6 +17,8 @@ Moth is a plugin for the Grasshopper environment with a variety of useful compon
   
   + **Graph Tools:** Access a selection of graphing tools for data visualization and analysis.
 
+  +  **Mesh Face Clustering:** Useful for panelization and mesh rationalization.
+
 Whether you're working on architectural projects, urban design, or data representation, Moth can provide useful tools for your workflow.
 
 ## **Installation**
