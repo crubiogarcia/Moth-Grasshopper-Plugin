@@ -2,6 +2,8 @@
 
 Moth is a plugin for the Grasshopper environment with a variety of useful components.
 
+![Moth Plugin Logo](./Resources/MothIcon.png)
+
 ## **Functionalities**
 
   Moth is a versatile toolkit designed to address various needs encountered during my years of using Grasshopper. Drawing from my diverse project experiences, this package offers a wide range of functionalities tailored to enhance your workflow.
