@@ -1,4 +1,4 @@
-# **Moth - Grasshopper Plugin**
+# **Moth 🦋 - Grasshopper Plugin**
 
 Moth is a plugin for the Grasshopper environment with a variety of useful components.
 
