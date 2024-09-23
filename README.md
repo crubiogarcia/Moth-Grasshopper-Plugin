@@ -2,7 +2,7 @@
 
 Moth is a plugin for the Grasshopper environment with a variety of useful components.
 
-![Moth Plugin Logo](./Resources/MothIcon.png)
+![Moth Plugin Logo](./Resources/MothIconLarge.png)
 
 ## **Functionalities**
 
