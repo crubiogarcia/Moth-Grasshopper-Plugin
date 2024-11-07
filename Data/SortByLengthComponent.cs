@@ -51,10 +51,6 @@ namespace Moth
             //Inputs
             List<Curve> C = new List<Curve>();
             DA.GetDataList(0, C);
-            double w = 0;
-            DA.GetData(0, ref w);
-            int s = 0;
-            DA.GetData(1, ref s);
 
             //Algorithm
 
