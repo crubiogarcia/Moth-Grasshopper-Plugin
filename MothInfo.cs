@@ -24,6 +24,6 @@ namespace Moth
         public override string AuthorContact => "carmenrubio1@hotmail.es";
 
         //Version
-        public override string Version => "1.0.1";
+        public override string Version => "1.0.4";
     }
 }
